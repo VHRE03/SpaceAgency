@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpaceAgency")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34cc34fd608b3fb33c4efed433bffe3843ddedf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpaceAgency")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpaceAgency")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
